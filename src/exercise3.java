@@ -19,6 +19,7 @@ public static void main(String[] args){
               
           } else {
             System.out.print("This is else statement");
+            System.out.print("This is else statement");
         }
     }   
 }
